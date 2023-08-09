@@ -1,0 +1,1 @@
+// PS - Write a program which creates a hole of size 1kb at the end of file

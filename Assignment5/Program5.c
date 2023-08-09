@@ -1,0 +1,1 @@
+// PS - Write a program which accepts file name which contain data of all file. We have to create all file again
